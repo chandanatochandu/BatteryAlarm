@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Battery Alarm</string>
+    <string name="helptext">
+        <br>
+            Battery Alarm
+        \n\n</br>
+        <br>
+            How To Use
+        \n\n</br>
+        <br>
+            Click on set percentage select the percentage, put the device in charging and click
+            on start. While charging, once the battery is changed to selected percentage, app
+            will ring the ringtone of the device which can be stopped either by clicking the stop or remove from charging.
+       </br>
+    </string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+    <string name="setpercent">SET PERCENTAGE</string>
+    <string name="level">90</string>
+    <string name="statuscharging">STATUS : CHARGING</string>
+    <string name="voltage">VOLTAGE : 0mV</string>
+    <string name="temperature">TEMPERATURE : 0*C</string>
+    <string name="technology">TECHNOLOGY : Li-ion</string>
+    <string name="health">HEALTH : COLD</string>
+    <string name="help">Help</string>
+    <string name="per40">40%</string>
+    <string name="per50">50%</string>
+    <string name="per60">60%</string>
+    <string name="per70">70%</string>
+    <string name="per80">80%</string>
+    <string name="per85">85%</string>
+    <string name="per90">90%</string>
+    <string name="per91">91%</string>
+    <string name="per92">92%</string>
+    <string name="per93">93%</string>
+    <string name="per94">94%</string>
+    <string name="per95">95%</string>
+    <string name="per96">96%</string>
+    <string name="per97">97%</string>
+    <string name="per98">98%</string>
+    <string name="per99">99%</string>
+    <string name="perfull">100%(Full)</string>
+    <string name="fullcharge">BATTERY STATUS : FULL CHARGING</string>
+    <string name="charging">BATTERY STATUS : CHARGING</string>
+    <string name="notcharging">BATTERY STATUS : NOT CHARGING</string>
+    <string name="hcold">BATTERY HEALTH : COLD</string>
+    <string name="hdead">BATTERY HEALTH : DEAD</string>
+    <string name="hgood">BATTERY HEALTH : GOOD</string>
+    <string name="hoverheat">BATTERY HEALTH : OVERHEAT</string>
+    <string name="hovervoltage">BATTERY HEALTH : OVER VOLTAGE</string>
+    <string name="hunknown">BATTERY HEALTH : UNKNOWN</string>
+
+
+</resources>
+

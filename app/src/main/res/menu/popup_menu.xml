@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/item40"
+        android:title="@string/per40" />
+
+    <item android:id="@+id/item50"
+        android:title="@string/per50"/>
+
+    <item android:id="@+id/item60"
+        android:title="@string/per60"/>
+
+    <item android:id="@+id/item70"
+        android:title="@string/per70"/>
+
+    <item android:id="@+id/item80"
+        android:title="@string/per80"/>
+
+    <item android:id="@+id/item85"
+        android:title="@string/per85"/>
+
+    <item android:id="@+id/item90"
+        android:title="@string/per90"/>
+
+    <item android:id="@+id/item91"
+        android:title="@string/per91"/>
+
+    <item android:id="@+id/item92"
+        android:title="@string/per92"/>
+
+    <item android:id="@+id/item93"
+        android:title="@string/per93"/>
+
+    <item android:id="@+id/item94"
+        android:title="@string/per94"/>
+
+    <item android:id="@+id/item95"
+        android:title="@string/per95"/>
+
+    <item android:id="@+id/item96"
+        android:title="@string/per96"/>
+
+    <item android:id="@+id/item97"
+        android:title="@string/per97"/>
+
+    <item android:id="@+id/item98"
+        android:title="@string/per98"/>
+
+    <item android:id="@+id/item99"
+        android:title="@string/per99"/>
+
+    <item android:id="@+id/item100"
+        android:title="@string/perfull"/>
+
+
+</menu>
